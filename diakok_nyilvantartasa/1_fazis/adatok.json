@@ -1,0 +1,54 @@
+{
+  "osztalyok": [
+    {
+      "id": 1,
+      "nev": "10.A",
+      "szak": "Informatika",
+      "evfolyam": 10
+    },
+    {
+      "id": 2,
+      "nev": "11.B",
+      "szak": "Két tanítási nyelvű",
+      "evfolyam": 11
+    }
+  ],
+  "diakok": [
+    {
+      "id": 1,
+      "nev": "Kovács Péter",
+      "email": "kovacs.peter@iskola.hu",
+      "osztaly_id": 1
+    },
+    {
+      "id": 2,
+      "nev": "Nagy Zsófia",
+      "email": "nagy.zsofia@iskola.hu",
+      "osztaly_id": 1
+    },
+    {
+      "id": 3,
+      "nev": "Szabó Dániel",
+      "email": "szabo.daniel@iskola.hu",
+      "osztaly_id": 1
+    },
+    {
+      "id": 4,
+      "nev": "Tóth Anna",
+      "email": "toth.anna@iskola.hu",
+      "osztaly_id": 2
+    },
+    {
+      "id": 5,
+      "nev": "Horváth Máté",
+      "email": "horvath.mate@iskola.hu",
+      "osztaly_id": 2
+    },
+    {
+      "id": 6,
+      "nev": "Varga Boglárka",
+      "email": "varga.boglarka@iskola.hu",
+      "osztaly_id": 2
+    }
+  ]
+}
