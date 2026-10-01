@@ -1,0 +1,23 @@
+
+{
+    "osztalyok": [
+      {
+        "osztaly_id": 1,
+        "nev": "9.A",
+        "szak": "Szoftverfejlesztő és -tesztelő",
+        "evfolyam": 9
+      },
+      {
+        "osztaly_id": 2,
+        "nev": "10.B",
+        "szak": "Informatikai rendszer- és alkalmazás-üzemeltető",
+        "evfolyam": 10
+      },
+      {
+        "osztaly_id": 3,
+        "nev": "11.A",
+        "szak": "Szoftverfejlesztő és -tesztelő",
+        "evfolyam": 11
+      }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+  "diakok": [
+    {
+      "id": 101,
+      "nev": "Kovács Péter",
+      "email": "kovacs.peter@iskola.hu",
+      "osztaly_id": 1
+    },
+    {
+      "id": 102,
+      "nev": "Nagy Dóra",
+      "email": "nagy.dora@iskola.hu",
+      "osztaly_id": 1
+    },
+    {
+      "id": 103,
+      "nev": "Szabó Krisztofer",
+      "email": "szabo.krisztofer@iskola.hu",
+      "osztaly_id": 2
+    },
+    {
+      "id": 104,
+      "nev": "Tóth Anna",
+      "email": "toth.anna@iskola.hu",
+      "osztaly_id": 3
+
+      },
+      {
+        "id": 105,
+        "nev": "Horváth Bence",
+        "email": "horvath.bence@iskola.hu",
+        "osztaly_id": 1
+      },
+      {
+        "id": 106,
+        "nev": "Varga Eszter",
+        "email": "varga.eszter@iskola.hu",
+        "osztaly_id": 2
+      },
+      {
+        "id": 107,
+        "nev": "Molnár Tamás",
+        "email": "molnar.tamas@iskola.hu",
+        "osztaly_id": 2
+      },
+      {
+        "id": 108,
+        "nev": "Balogh Lili",
+        "email": "balogh.lili@iskola.hu",
+        "osztaly_id": 3
+      }
+  ]
+}
